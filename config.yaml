@@ -1,0 +1,12 @@
+#个人配置
+AppID: 102344719
+Token: "Kq9T9IeecPpR2ky3Fq8JQreGGSRRvwFW"
+AppSecret: "kigfedcbaZZZZZZZabcdefhjlnprux03"
+
+redis:
+ address: "127.0.0.1:6379"
+
+#企业配置
+#AppID: 102340718
+#Token: "6ccRDWQAvXrrdCqhuAzCyf5R6mF6xbmq"
+#AppSecret: "AvgSE0mYK6tgTG3qdQE2qeSG4tiXMB0p"
